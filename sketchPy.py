@@ -1,3 +1,4 @@
+# Import the dependencies
 import cv2
 import argparse
 
