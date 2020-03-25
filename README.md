@@ -41,7 +41,7 @@ Here you go:
 
 # License 📜
 
-[MIT License](https://github.com/smaranjitghose/sketchPy/blob/master/LICENSE.MD)
+[MIT License](https://github.com/smaranjitghose/sketchPy/blob/master/LICENSE)
 
 # **Crafted with ❤ by Smaranjit Ghose**
 
