@@ -2,7 +2,7 @@
 
 Ever wondered where that artist in you 👨‍🎨  got lost in the turmoil of career pursuits 👨‍💼? 
 Yes! That creative mind of yours 🧠🔥 which used draw potraits of anything you saw asap.
-Well, pass a smile 😊 because python🐍  has your back now with a another magic spell!
+Well, pass a smile 😊 because python🐍  has your back now with another magic spell!
 
 Don't believe me? 🤨
 
