@@ -23,8 +23,8 @@ Here you go:
 - clone or Download this repo ⏬
 - Open the Terminal 🐱‍💻
 - Move inside 👉 the repo 
-- Put your image inside the repo or get its path
 ```cd sketchPy``` 
+- Put your image inside the repo or get its path
 - Now make sure you have all the dependencies🧱 
   ```pip install -r requirements.txt```
 - Now, the climax you have been waiting for!😎. Run the script using Terminal
