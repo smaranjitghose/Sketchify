@@ -23,10 +23,11 @@ sk_img = cv2.divide(gray_img, 255-blur_img, scale=256.0)
 
 #create windows to display images
 cv2.imshow('Thy Sketch', sk_img)
-
+# Input keypress
 k = cv2.waitKey(0)
-# Close window and save image
+# If Esc key is pressed
 if k == 27:
+    # Save the image in the desired path
     cv2.imwrite('sketch.png', sk_img)
     #close all the opened windows
     cv2.destroyAllWindows()
