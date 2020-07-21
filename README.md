@@ -13,8 +13,7 @@ Don't believe me? 🤨
 <p align ='center'><img src = 'https://media.giphy.com/media/ANbD1CCdA3iI8/giphy.gif' width = 50%></p>
 
 <h2 align ='center'>Demo</h2>
-Here's what the spell🧙‍♂️ did for my buddy [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
-
+Here's what the spell🧙‍♂️ did for my buddy Sukkrit Sharma
 |Original DP| Sketched DP|
 |-----|----|
 |![Original DP](https://github.com/smaranjitghose/sketchPy/blob/master/assets/sukkrit.jpeg)|![Sketched DP](https://github.com/smaranjitghose/sketchPy/blob/master/assets/sketch.png)|
