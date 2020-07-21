@@ -47,4 +47,5 @@ Here you go:
 <h2 align = 'center'>License 📜</h2>
 <p align = 'center'><img src = 'https://media.giphy.com/media/XfD8VJDUurgMjNEP72/giphy.gif' width = 40%></p>
 
+[MIT License](https://github.com/smaranjitghose/Sketchify/blob/master/LICENSE)
 
