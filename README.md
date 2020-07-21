@@ -13,8 +13,6 @@ Don't believe me? 🤨
 <p align ='center'><img src = 'https://media.giphy.com/media/ANbD1CCdA3iI8/giphy.gif' width = 50%></p>
 
 <h2 align ='center'>Demo</h2>
-Wanna See How it works?
-
 Here's what the spell🧙‍♂️ did for my buddy [Sukkrit Sharma](https://github.com/sukkritsharmaofficial)
 
 |Original DP| Sketched DP|
@@ -27,7 +25,7 @@ Convinced..huh? 😉 and want this spell for yourself?
 
 Here you go:
 
-- clone or Download this repo ⏬
+- Clone or Download this repo ⏬
 - Open the Terminal 🐱‍💻
 - Move inside 👉 the repo 
 ```cd Sketchify``` 
@@ -35,7 +33,7 @@ Here you go:
 - Now make sure you have all the dependencies🧱 
   ```pip install -r requirements.txt```
 - Now, the climax you have been waiting for!😎. Run the script using Terminal
-  ```python sketchify.py -i <path to your image>```
+  ```python Sketchify.py -i <path to your image>```
 - Abracadabra ⚡
 
 **I assume you have python installed on your system and set to path.**
@@ -46,8 +44,7 @@ Here you go:
 - Deploy🚢 the above using TensorFlow.JS or using Flask
 - Integrate this into an image processing package 
 
-# License 📜
-
-[MIT License](https://github.com/smaranjitghose/sketchPy/blob/master/LICENSE)
+<h2 align = 'center'>License 📜</h2>
+<p align = 'center'><img src = 'https://media.giphy.com/media/XfD8VJDUurgMjNEP72/giphy.gif' width = 40%></p>
 
 
