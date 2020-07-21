@@ -14,9 +14,10 @@ Don't believe me? 🤨
 
 <h2 align ='center'>Demo</h2>
 Here's what the spell🧙‍♂️ did for my buddy Sukkrit Sharma
+
 |Original DP| Sketched DP|
 |-----|----|
-|![Original DP](https://github.com/smaranjitghose/sketchPy/blob/master/assets/sukkrit.jpeg)|![Sketched DP](https://github.com/smaranjitghose/sketchPy/blob/master/assets/sketch.png)|
+|![Original DP](https://github.com/smaranjitghose/sketchPy/blob/master/assets/sukkrit.jpeg)|![Sketch](https://github.com/smaranjitghose/sketchPy/blob/master/assets/sketch.png)|
 
 <h2 align ='center'>Usage</h2>
 Convinced..huh? 😉 and want this spell for yourself?
