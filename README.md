@@ -17,7 +17,7 @@ Here's what the spell🧙‍♂️ did for my buddy Sukkrit Sharma
 
 |Original DP| Sketched DP|
 |-----|----|
-|![Original DP](https://github.com/smaranjitghose/sketchPy/blob/master/assets/sukkrit.jpeg)|![Sketch](https://github.com/smaranjitghose/sketchPy/blob/master/assets/sketch.png)|
+|<img src = "assets/sukkrit.jpeg">|<img src = "assets/sketch.png">|
 
 <h2 align ='center'>Usage</h2>
 Convinced..huh? 😉 and want this spell for yourself?
