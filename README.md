@@ -4,13 +4,13 @@ Ever wondered where that artist in you 👨‍🎨  got lost in the turmoil of c
 <p align = 'center'><img src = 'https://media.giphy.com/media/lp0nBuaRjcj13j3nMH/giphy.gif' width = 50%></p>
 
 Yes! That creative mind of yours 🧠🔥 which used draw potraits of anything you saw asap.
-<p align = 'center'><img src = 'https://media.giphy.com/media/l0K4p54asXHiEfhrG/giphy.gif' width = 35%></p>
+<p align = 'center'><img src = 'https://media.giphy.com/media/l0K4p54asXHiEfhrG/giphy.gif' width = 30%></p>
 
 Well, pass a smile 😊 because python🐍  has your back now with another magic spell!
-<p align ='center'><img src = 'https://media.giphy.com/media/Qfo0gkQUepOm2TY3Ny/giphy.gif' width = 50%></p>
+<p align ='center'><img src = 'https://media.giphy.com/media/Qfo0gkQUepOm2TY3Ny/giphy.gif' width = 35%></p>
 
 Don't believe me? 🤨
-<p align ='center'><img src = 'https://media.giphy.com/media/ANbD1CCdA3iI8/giphy.gif' width = 50%></p>
+<p align ='center'><img src = 'https://media.giphy.com/media/ANbD1CCdA3iI8/giphy.gif' width = 35%></p>
 
 <h2 align ='center'>Demo</h2>
 Here's what the spell🧙‍♂️ did for my buddy Sukkrit Sharma
